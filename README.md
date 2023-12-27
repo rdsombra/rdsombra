@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rdsombra
-- 👀 I’m interested in software development, eletronics and embedded systems.
+- 👀 I’m interested in software development, electronics, and embedded systems.
 - 🌱 I’m currently learning how to work with FreeRTOS.
-- 💞️ I’m looking to collaborate on high efficiency, IoT and/or C++ projects.
+- 💞️ I want to collaborate on high-efficiency, IoT and/or C++ projects.
 - 📫 I'm at LinkedIn https://www.linkedin.com/in/rafaelsombra1/
 
 <!---
