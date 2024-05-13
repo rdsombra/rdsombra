@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rdsombra
 - 👀 I’m interested in software development, electronics, and embedded systems.
-- 🌱 I’m currently studying FreeRTOS.
+- 🌱 Here you can find some study code for C++, FreeRTOS, Ruby on Rails, and some others.
 - 💞️ I want to collaborate on high-efficiency, IoT and/or C++ projects.
 - 📫 I'm at LinkedIn https://www.linkedin.com/in/rafaelsombra1/
 
